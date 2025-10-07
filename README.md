@@ -9,7 +9,7 @@ An Artificial Intelligence specialist with over eight years of experience pionee
 ### 🚀 Professional Experience
 
 **AI Researcher & Data Scientist** @ [Bernoulli Institute, University of Groningen](https://www.rug.nl/research/fse/themes/dssc/about-dssc/research-profiles/research-profile-mohammed-faezi?lang=en)
-- Developed an AI-powered algorithms for large-scale astronomical data analysis [![MTO2](https://img.shields.io/badge/📡-MTO2-purple?style=for-the-badge&logo=github)](https://github.com/m-faezi/MTO2).
+- Developed an AI-powered algorithm for large-scale astronomical data analysis [![MTO2](https://img.shields.io/badge/📡-MTO2-purple?style=for-the-badge&logo=github)](https://github.com/m-faezi/MTO2).
 - Specialized in Machine Learning and Computer Vision advanced algorithms. 
 - Built and optimized end-to-end data processing pipelines from research to production.
 - Supervised graduate students and contributed to high-impact publications.
