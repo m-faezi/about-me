@@ -1,4 +1,4 @@
-# 👋🏽 Hello, I'm Mohammad H. (Farshad) Faezi
+## 👋🏽 Hello, I'm Mohammad H. (Farshad) Faezi
 
 **Ph.D. in Computer Science | Data Scientist | Applied AI Specialist**
 
